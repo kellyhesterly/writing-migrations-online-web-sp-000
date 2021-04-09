@@ -1,1 +1,1 @@
-
+class CreateStudents < ActiveRecord::Base
